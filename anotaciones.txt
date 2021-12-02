@@ -1,0 +1,6 @@
+- En otra página poner en el aside una lista con géneros.
+- Buscador en el nav o en el footer a unas malas.
+- ¿Tabla con un ranking de libros o autores?
+- Hacer el favicon y logo
+
+Github de Soledad --> i12 modem
